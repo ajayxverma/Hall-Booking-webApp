@@ -14,7 +14,7 @@ jQuery(document).ready(function($){
 		});
 	}
 
-	//mobile version - detect click event on filters tab
+	//mobile version - detect click event on filters tabs
 	var filter_tab_placeholder = $('.cd-tab-filter .placeholder a'),
 		filter_tab_placeholder_default_value = 'Select',
 		filter_tab_placeholder_text = filter_tab_placeholder.text();
